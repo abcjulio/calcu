@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MedCalc</string>
+    <string name="title_medrecord_detail">MedRecord Detail</string>
+</resources>
